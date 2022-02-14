@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JWTAuthenticationWithSwagger/obj/Debug/net5.0
+/JWTAuthenticationWithSwagger/obj
+/JWTAuthenticationWithSwagger/bin/Debug/net5.0/ref
+/JWTAuthenticationWithSwagger/bin/Debug/net5.0/runtimes
+/JWTAuthenticationWithSwagger/bin/Debug/net5.0
